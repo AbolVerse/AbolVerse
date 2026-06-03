@@ -1,16 +1,18 @@
-## Hi there 👋
+## Hi there 👋 I'm Abolfazl (AbolVerse)
 
-<!--
-**AbolVerse/AbolVerse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Engineering Student
 
-Here are some ideas to get you started:
+- 🌱 I’m interested in: cybersecurity, networking, backend development, and system fundamentals
+- 🔎 Exploring: how systems communicate over networks (TCP/IP, sockets, etc.)
+- 🎯 Goal: building strong foundations in backend systems and security concepts
+- 🧩 Focus: understanding how software and networks actually work under the hood
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Currently Learning
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="16"/> Python  
+🌐Networking fundamentals  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="16"/> Building APIs with FastAPI  
+⚡Real-time communication with Socket.IO
+
+
+## About Me
+I’m currently focused on learning how systems work, especially in the areas of networking and security. I like understanding things deeply instead of just using them.
